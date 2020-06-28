@@ -1,12 +1,13 @@
 *{
-    margin: 25px 15px;
+    margin: 25px 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .title{
     text-align: center;
     margin: 50%;
     padding: 10px;
     font-size: 30px;
-    border: 1px solid black;
+    border: 3px solid black;
     border-radius: 15px;
     font-weight: 800;
     color: balck;
@@ -54,11 +55,20 @@
     border-radius: 20px;
     margin: 40px;
     width: 25%;
-    padding: 10px 20px;
+    padding: 10px 10px;
     display: inline-block;
 }
 .text3{
     text-align: center;
     font-weight: bold;
     font-size: 25px;
+}
+.btn3{
+    border: 2 px solid black;
+    border-radius: 15px;
+    margin-left: 30%;
+    border-color: black;
+    display: block;
+    font-size: 30px;
+    
 }
