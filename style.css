@@ -72,3 +72,6 @@
     font-size: 30px;
     
 }
+button:hover{
+    background-color: crimson;
+}
